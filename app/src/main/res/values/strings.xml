@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Falcon 9 Launches</string>
+
+    <string name="loading">Loading</string>
+    <string name="error">There was an error getting the list of launches</string>
+
+    <!-- Error messages -->
+    <string name="error_http_400">Invalid Request</string>
+    <string name="error_http_401">Unauthorised</string>
+    <string name="error_http_404">Not found</string>
+    <string name="error_socket_timeout">Timeout</string>
+    <string name="error_no_internet">No internet connection available</string>
+    <string name="error_general_unknown">Something went wrong</string>
+    <string name="error_general_read_error">Unable to read application data</string>
+
+</resources>
